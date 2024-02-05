@@ -1,0 +1,13 @@
+D:\C#\ListsEx\ListsEx\bin\Debug\netcoreapp3.1\ListsEx.exe
+D:\C#\ListsEx\ListsEx\bin\Debug\netcoreapp3.1\ListsEx.deps.json
+D:\C#\ListsEx\ListsEx\bin\Debug\netcoreapp3.1\ListsEx.runtimeconfig.json
+D:\C#\ListsEx\ListsEx\bin\Debug\netcoreapp3.1\ListsEx.runtimeconfig.dev.json
+D:\C#\ListsEx\ListsEx\bin\Debug\netcoreapp3.1\ListsEx.dll
+D:\C#\ListsEx\ListsEx\bin\Debug\netcoreapp3.1\ListsEx.pdb
+D:\C#\ListsEx\ListsEx\obj\Debug\netcoreapp3.1\ListsEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ListsEx\ListsEx\obj\Debug\netcoreapp3.1\ListsEx.AssemblyInfoInputs.cache
+D:\C#\ListsEx\ListsEx\obj\Debug\netcoreapp3.1\ListsEx.AssemblyInfo.cs
+D:\C#\ListsEx\ListsEx\obj\Debug\netcoreapp3.1\ListsEx.csproj.CoreCompileInputs.cache
+D:\C#\ListsEx\ListsEx\obj\Debug\netcoreapp3.1\ListsEx.dll
+D:\C#\ListsEx\ListsEx\obj\Debug\netcoreapp3.1\ListsEx.pdb
+D:\C#\ListsEx\ListsEx\obj\Debug\netcoreapp3.1\ListsEx.genruntimeconfig.cache
