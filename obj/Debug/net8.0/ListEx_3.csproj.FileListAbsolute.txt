@@ -1,0 +1,14 @@
+D:\C#\ListEx_3\ListEx_3\bin\Debug\net8.0\ListEx_3.exe
+D:\C#\ListEx_3\ListEx_3\bin\Debug\net8.0\ListEx_3.deps.json
+D:\C#\ListEx_3\ListEx_3\bin\Debug\net8.0\ListEx_3.runtimeconfig.json
+D:\C#\ListEx_3\ListEx_3\bin\Debug\net8.0\ListEx_3.dll
+D:\C#\ListEx_3\ListEx_3\bin\Debug\net8.0\ListEx_3.pdb
+D:\C#\ListEx_3\ListEx_3\obj\Debug\net8.0\ListEx_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ListEx_3\ListEx_3\obj\Debug\net8.0\ListEx_3.AssemblyInfoInputs.cache
+D:\C#\ListEx_3\ListEx_3\obj\Debug\net8.0\ListEx_3.AssemblyInfo.cs
+D:\C#\ListEx_3\ListEx_3\obj\Debug\net8.0\ListEx_3.csproj.CoreCompileInputs.cache
+D:\C#\ListEx_3\ListEx_3\obj\Debug\net8.0\ListEx_3.dll
+D:\C#\ListEx_3\ListEx_3\obj\Debug\net8.0\refint\ListEx_3.dll
+D:\C#\ListEx_3\ListEx_3\obj\Debug\net8.0\ListEx_3.pdb
+D:\C#\ListEx_3\ListEx_3\obj\Debug\net8.0\ListEx_3.genruntimeconfig.cache
+D:\C#\ListEx_3\ListEx_3\obj\Debug\net8.0\ref\ListEx_3.dll
