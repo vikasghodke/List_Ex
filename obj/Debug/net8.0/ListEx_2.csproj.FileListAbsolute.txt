@@ -1,0 +1,14 @@
+D:\C#\ListEx_2\ListEx_2\bin\Debug\net8.0\ListEx_2.exe
+D:\C#\ListEx_2\ListEx_2\bin\Debug\net8.0\ListEx_2.deps.json
+D:\C#\ListEx_2\ListEx_2\bin\Debug\net8.0\ListEx_2.runtimeconfig.json
+D:\C#\ListEx_2\ListEx_2\bin\Debug\net8.0\ListEx_2.dll
+D:\C#\ListEx_2\ListEx_2\bin\Debug\net8.0\ListEx_2.pdb
+D:\C#\ListEx_2\ListEx_2\obj\Debug\net8.0\ListEx_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ListEx_2\ListEx_2\obj\Debug\net8.0\ListEx_2.AssemblyInfoInputs.cache
+D:\C#\ListEx_2\ListEx_2\obj\Debug\net8.0\ListEx_2.AssemblyInfo.cs
+D:\C#\ListEx_2\ListEx_2\obj\Debug\net8.0\ListEx_2.csproj.CoreCompileInputs.cache
+D:\C#\ListEx_2\ListEx_2\obj\Debug\net8.0\ListEx_2.dll
+D:\C#\ListEx_2\ListEx_2\obj\Debug\net8.0\refint\ListEx_2.dll
+D:\C#\ListEx_2\ListEx_2\obj\Debug\net8.0\ListEx_2.pdb
+D:\C#\ListEx_2\ListEx_2\obj\Debug\net8.0\ListEx_2.genruntimeconfig.cache
+D:\C#\ListEx_2\ListEx_2\obj\Debug\net8.0\ref\ListEx_2.dll
